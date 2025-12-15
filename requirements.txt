@@ -1,0 +1,7 @@
+# pip install streamlit pandas numpy scikit-learn imbalanced-learn requests
+streamlit
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+requests
